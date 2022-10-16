@@ -92,7 +92,4 @@ Revisión el usuario pretende encontrar un formulario de fácil compresión y ll
 <br>
 <br>
 
-![Buyer Persona](./imagenes/05servfin.jpg)
-
-<br>
-<br>
+![Buyer Persona](./imagenes/06serpend.jpg)
