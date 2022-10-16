@@ -38,3 +38,61 @@ Revisión el usuario pretende encontrar un formulario de fácil compresión y ll
 <br>
 
 ![Buyer Persona](./imagenes/Buyer_pesona.jpg)
+
+<br>
+<br>
+<h1> 3. UI </h1>
+<br>
+<h4> Página de inicio </h4>
+<br>
+<br>
+
+![Buyer Persona](./imagenes/01home.jpg)
+
+<br>
+<br>
+
+<h4> Página de usuario </h4>
+<br>
+<br>
+
+![Buyer Persona](./imagenes/02usario.jpg)
+
+<br>
+<br>
+
+<h4> Página de formulario </h4>
+<br>
+<br>
+
+![Buyer Persona](./imagenes/03formulario.jpg)
+
+<br>
+<br>
+
+<h4> Panel de administración </h4>
+<br>
+<br>
+
+![Buyer Persona](./imagenes/04paneladmin.jpg)
+
+<br>
+<br>
+
+<h4> Servicios finalizados </h4>
+<br>
+<br>
+
+![Buyer Persona](./imagenes/05servfin.jpg)
+
+<br>
+<br>
+
+<h4> Servicios pendientes </h4>
+<br>
+<br>
+
+![Buyer Persona](./imagenes/05servfin.jpg)
+
+<br>
+<br>
